@@ -1,0 +1,11 @@
+{
+  "name": "aqarati-plugins",
+  "owner": { "name": "Moosakalam" },
+  "plugins": [
+    {
+      "name": "aqarati-theme",
+      "source": "./plugins/aqarati-theme",
+      "description": "Create or restyle PPTX/PDF decks in the Aqarati brand theme."
+    }
+  ]
+}

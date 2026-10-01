@@ -1,0 +1,23 @@
+{
+  "name": "Aqarati",
+  "slide": {"w_in": 13.333, "h_in": 7.5},
+  "colors": {
+    "ink": "1F1640", "body": "2B2640", "muted": "6B6685",
+    "bg_dark": "1F1640", "bg_light": "F5F3FC", "card": "FFFFFF",
+    "line": "E4DFF5", "lilac": "CFC3FA", "lilac_soft": "B7AEDB", "lilac_dim": "9D93C9",
+    "circle_a": "2E2163", "circle_b": "3A2A7A",
+    "green": "138A5E", "green_soft": "E3F4EC", "green_tint": "F7FCF9",
+    "purple": "5B3BB5", "purple_soft": "ECE7F7",
+    "violet": "6E6A9E", "violet_soft": "ECEBF5",
+    "gold": "D8B25A", "white": "FFFFFF"
+  },
+  "fonts": {"main": "Calibri", "arabic": "Calibri"},
+  "sizes_pt": {"cover_title": 54, "cover_arabic": 28, "cover_sub": 34, "cover_tag": 18,
+               "eyebrow": 13, "title": 36, "lede": 16, "card_title": 19, "card_body": 13,
+               "badge": 10.5, "footer": 10},
+  "status": {
+    "CONFIRMED": "green", "NEW": "green", "PENDING DECISION": "2B1A4E",
+    "FUTURE": "violet", "PHASE 2": "violet"
+  },
+  "footer_text": "Aqarati · MVP & Product Roadmap"
+}

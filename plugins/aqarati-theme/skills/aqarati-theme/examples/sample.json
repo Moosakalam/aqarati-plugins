@@ -1,0 +1,15 @@
+{
+  "slides": [
+    {"type": "cover", "arabic": "عقاراتي", "title": "AQARATI", "subtitle": "MVP & Product Roadmap",
+     "tagline": "What we build for launch — and what comes further", "footnote": "Verified, trust-first real estate super app"},
+    {"type": "cards", "eyebrow": "Roadmap", "title": "Four horizons, one trust principle",
+     "lede": "Nothing goes live until it is verified.",
+     "cards": [
+       {"title": "MVP / Launch", "tag": "Confirmed", "body": "Accounts, manual verification, all four property markets."},
+       {"title": "Scope to confirm", "tag": "Pending decision", "body": "Marketplace, Maintenance Service, Reviews and Loans."},
+       {"title": "Phase 2", "tag": "Future", "body": "Aqarati Broker."},
+       {"title": "Future", "tag": "Future", "body": "Bank loans, E-Gov, AI assistant."}]},
+    {"type": "bullets", "eyebrow": "Principles", "title": "Trust first", "badge": "Confirmed",
+     "bullets": ["Manual verification", "Documents stored in Oman", "No unverified listing goes live"]}
+  ]
+}
